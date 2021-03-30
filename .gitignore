@@ -37,3 +37,14 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# folders
+SAUCIE_corrected/
+cytof_data_raw/
+fig/
+preprocessed/
+sample_info/
+
+
+# misc
+.DS_Store
